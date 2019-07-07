@@ -6,7 +6,7 @@ spring:
 server: 
   port: 8001
 spring:
-  profiles: dev #开发环境0002
+  profiles: dev #开发环境0001
   application:
     name: USER-PROVIDER
 eureka:
